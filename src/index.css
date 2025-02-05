@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  user-select: none;
+  overflow: hidden;
+}
+
+yap-txt {
+  font-size: 1.5rem;
+}
+yap-title {
+  font-size: 3rem;
+  font-weight: bold;
+}
+yap-list {
+  font-size: 2rem;
+  font-weight: 400;
+  margin-left: 1rem;
+}
+
+smol-t {
+  font-size: 1rem;
+  font-style: italic;
+}
